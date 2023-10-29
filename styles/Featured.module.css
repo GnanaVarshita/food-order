@@ -1,0 +1,17 @@
+.container{
+  height: 350px;
+  background-color: #70add3;
+}
+
+.wrapper{
+    display: flex;
+    padding: 10px;
+    cursor:pointer;
+}
+.imgContainer{
+   border-radius: 20px;
+   height: 300px;
+   width: 300px;
+   padding: 10px;
+  
+}
